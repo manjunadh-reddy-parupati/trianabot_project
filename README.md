@@ -1,4 +1,4 @@
-# Trianabot Task
+# Trainabot Task
 
 This repository contains an early-career backend development assignment completed as part of a software engineering evaluation process.
 
